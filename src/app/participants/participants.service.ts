@@ -1,4 +1,4 @@
-export class ParticapantsService {
+export class ParticipantsService {
   getParticipants(){
       return [
           {name:"Hanna Jane Blantucas", age:"21", gender:"Female"},
